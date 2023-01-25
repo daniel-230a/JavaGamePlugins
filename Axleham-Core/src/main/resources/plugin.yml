@@ -1,0 +1,4 @@
+main: axleham.core.main.AxlehamCoreAPI
+name: Axleham_Core_API
+version: 1.0
+author: Daniel
