@@ -1,0 +1,15 @@
+main: axleham.ranks.main.Main
+name: Axleham Ranks
+version: 1.0
+author: Daniel
+
+commands:
+  rank:
+  server_type:
+  speed:
+  tp:
+  hologram:
+  spawn:
+  lobby:
+  hub:
+  npc:

@@ -1,0 +1,56 @@
+Groups:
+  DEFAULT:
+    permissions:
+      - null
+  TEMP:
+    permissions:
+      - permission.blockplace
+      - permission.blockbreak
+      - permission.emptybukket
+  BUILDER:
+    permissions:
+      - permission.blockplace
+      - permission.blockbreak
+      - permission.emptybukket
+      - worldedit.*
+      - voxelsniper.sniper
+      - voxelsniper.ignorelimitations
+      - voxelsniper.goto
+      - voxelsniper.brush.*
+      - permission.staff
+      - minecraft.command.give
+      - fawe.bypass
+  MODERATOR:
+    permissions:
+      - permission.blockplace
+      - permission.blockbreak
+      - permission.emptybukket
+      - minecraft.command.kick
+      - permission.staff
+  ADMIN:
+    permissions:
+      - permission.blockplace
+      - permission.blockbreak
+      - permission.emptybukket
+      - worldedit.*
+      - worldedit.reload
+      - worldedit.report
+      - voxelsniper.sniper
+      - voxelsniper.ignorelimitations
+      - voxelsniper.goto
+      - voxelsniper.brush.*
+      - permission.admin
+      - minecraft.command.kick
+      - minecraft.command.ban
+      - minecraft.command.pardon
+      - minecraft.command.gamemode
+      - minecraft.command.effect
+      - permission.staff
+      - minecraft.command.give
+      - minecraft.command.clear
+      - fawe.bypass
+      - gobrush.use
+  OWNER:
+    permissions:
+      - null
+
